@@ -17,14 +17,14 @@ const Portfolio = () => {
 
 
         <section id="work" class="work">
-            <h2 class="section-title-2">Completed Projects</h2>
+            <h2 class="section-title-2">Group Project</h2>
             <div class="flex-row">
                 <div class="Project">
-                    <a href="https://whoward2929.github.io/password-generator/" target="_blank" rel="noreferrer" >
+                    <a href="https://github.com/wamackie/easy-recipe" target="_blank" rel="noreferrer" >
 
                     <div class="Project-text">
-                        <h3>Password Generator</h3>
-                        <p>Randomizing passwords through code</p>
+                        <h3>Recipe Sharing Site</h3>
+                        <p>Full Stack Web App</p>
                     </div>
                     </a>
                 </div>
